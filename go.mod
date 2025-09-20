@@ -1,3 +1,3 @@
-module github.com/Psakine/utils/v2
+module github.com/Psakine/utils/v3
 
 go 1.22.0
